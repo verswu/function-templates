@@ -1,4 +1,6 @@
 {
   "name": "sms-notifications",
-  "dependencies": {}
+  "dependencies": {
+    "twilio": "latest"
+  }
 }
